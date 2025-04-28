@@ -19,19 +19,19 @@
    ```bash
    npm start
 ### Бэкенд
-5. Клонируйте репозиторий бэкенда:
+4. Клонируйте репозиторий бэкенда:
    ```bash
    git clone https://github.com/karlygaw/ViaCulture.git
-7. Перейдите в папку проекта:
+5. Перейдите в папку проекта:
    ```bash
    cd ViaCulture
-9. Установите зависимости:
+6. Установите зависимости:
     ```bash
    composer install
-11. Запустите миграции:
+7. Запустите миграции:
     ```bash
    php artisan migrate
-13. Запустите сидеры:
+8. Запустите сидеры:
    ```bash
    php artisan db:seed
    
