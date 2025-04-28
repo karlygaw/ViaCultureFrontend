@@ -31,8 +31,8 @@ https://drive.google.com/file/d/1l1WxI3uHgVdz4znTjlGnDp4MKVGe0iyC/view?usp=shari
 
    ![image](https://github.com/user-attachments/assets/ea04468c-0b6a-4a43-9dd5-f5f5a8bb0297)
    ![image](https://github.com/user-attachments/assets/accbf837-c32e-43be-8329-b3178714ae2e)
-![image](https://github.com/user-attachments/assets/c63259e2-6af7-4a09-b5b9-0012218c5d5a)
-![image](https://github.com/user-attachments/assets/7c1be5b9-ec0c-4dc7-9187-d822fb78799f)
+![image](https://github.com/user-attachments/assets/c63259e2-6af7-4a09-b5b9-0012218c5d5a) ![image](https://github.com/user-attachments/assets/7c1be5b9-ec0c-4dc7-9187-d822fb78799f)
+
 
 
 6. Чат с народом
