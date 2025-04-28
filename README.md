@@ -13,19 +13,26 @@
    git clone https://github.com/your-username/your-repo-frontend.git](https://github.com/karlygaw/ViaCultureFrontend)
 
 2. Установите зависимости:
+   ```bash
    npm install
 3. Запустите проект:
+   ```bash
    npm start
 ### Бэкенд
 5. Клонируйте репозиторий бэкенда:
+   ```bash
    git clone https://github.com/karlygaw/ViaCulture.git
-6. Перейдите в папку проекта:
+7. Перейдите в папку проекта:
+   ```bash
    cd ViaCulture
-7. Установите зависимости:
+9. Установите зависимости:
+    ```bash
    composer install
-8. Запустите миграции:
+11. Запустите миграции:
+    ```bash
    php artisan migrate
-9. Запустите сидеры:
+13. Запустите сидеры:
+   ```bash
    php artisan db:seed
    
 *Особенность:*
