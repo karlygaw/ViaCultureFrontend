@@ -9,6 +9,8 @@
 ### Фронтенд
 Доступна на версел: *https://via-culture-frontend.vercel.app/*
 
+Демо видео:
+https://drive.google.com/file/d/1l1WxI3uHgVdz4znTjlGnDp4MKVGe0iyC/view?usp=sharing
 1. Главная страница:
 ![image](https://github.com/user-attachments/assets/9bc6625d-cf35-4f4b-8590-d2c693a6cfd7)
 
