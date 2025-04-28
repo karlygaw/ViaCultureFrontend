@@ -8,7 +8,7 @@
 
 ### Фронтенд
 Доступна на версел: *https://via-culture-frontend.vercel.app/*
-
+Фигма: https://www.figma.com/design/F2GiFgRHZ7aEzXC8LIaqXx/Via-Vulture?node-id=1-4&p=f&t=Iv6aCAYw8VdpvaeW-0
 Демо видео:
 https://drive.google.com/file/d/1l1WxI3uHgVdz4znTjlGnDp4MKVGe0iyC/view?usp=sharing
 1. Главная страница:
