@@ -17,14 +17,22 @@ https://drive.google.com/file/d/1l1WxI3uHgVdz4znTjlGnDp4MKVGe0iyC/view?usp=shari
 2. Nations: https://via-culture-frontend.vercel.app/nations
 ![image](https://github.com/user-attachments/assets/06fb6b03-6e66-46cf-a565-bcdbc600ad1c)
 
-3. Nations/1:
+
+
+4. Nations/{id}:
    ![image](https://github.com/user-attachments/assets/1cfb2f39-45cf-4ab9-a52b-c6430d330442)
 
    ![image](https://github.com/user-attachments/assets/9419ed14-ac29-4bf5-a134-c9575c6c055c)
 
    ![image](https://github.com/user-attachments/assets/0f8fc36a-0c12-42f4-b354-0e8051c89390)
 
-4. Чат с народом
+   ![image](https://github.com/user-attachments/assets/ea04468c-0b6a-4a43-9dd5-f5f5a8bb0297)
+   ![image](https://github.com/user-attachments/assets/accbf837-c32e-43be-8329-b3178714ae2e)
+![image](https://github.com/user-attachments/assets/c63259e2-6af7-4a09-b5b9-0012218c5d5a)
+![image](https://github.com/user-attachments/assets/7c1be5b9-ec0c-4dc7-9187-d822fb78799f)
+
+
+6. Чат с народом
    ![image](https://github.com/user-attachments/assets/975d2119-954c-400d-97c4-07e2732679e7)
 
    ![image](https://github.com/user-attachments/assets/7539a0fa-95a2-4ead-8494-d85299b4be9a)
