@@ -20,6 +20,17 @@ https://drive.google.com/file/d/1l1WxI3uHgVdz4znTjlGnDp4MKVGe0iyC/view?usp=shari
 3. Nations/1:
    ![image](https://github.com/user-attachments/assets/1cfb2f39-45cf-4ab9-a52b-c6430d330442)
 
+   ![image](https://github.com/user-attachments/assets/9419ed14-ac29-4bf5-a134-c9575c6c055c)
+
+   ![image](https://github.com/user-attachments/assets/0f8fc36a-0c12-42f4-b354-0e8051c89390)
+
+4. Чат с народом
+   ![image](https://github.com/user-attachments/assets/975d2119-954c-400d-97c4-07e2732679e7)
+
+   ![image](https://github.com/user-attachments/assets/7539a0fa-95a2-4ead-8494-d85299b4be9a)
+
+   ![image](https://github.com/user-attachments/assets/740dca3c-aef6-45cd-8783-ee12190fae53)
+
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/your-username/your-repo-frontend.git](https://github.com/karlygaw/ViaCultureFrontend)
