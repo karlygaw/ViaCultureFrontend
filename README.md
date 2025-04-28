@@ -7,7 +7,16 @@
 ## Установка
 
 ### Фронтенд
-Доступна на версел: *https://via-culture-frontend.vercel.app/nations/1*
+Доступна на версел: *https://via-culture-frontend.vercel.app/*
+
+1. Главная страница:
+![image](https://github.com/user-attachments/assets/9bc6625d-cf35-4f4b-8590-d2c693a6cfd7)
+
+2. Nations: https://via-culture-frontend.vercel.app/nations
+![image](https://github.com/user-attachments/assets/06fb6b03-6e66-46cf-a565-bcdbc600ad1c)
+
+3. Nations/1:
+   ![image](https://github.com/user-attachments/assets/1cfb2f39-45cf-4ab9-a52b-c6430d330442)
 
 1. Клонируйте репозиторий:
    ```bash
