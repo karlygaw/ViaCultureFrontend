@@ -7,6 +7,7 @@
 ## Установка
 
 ### Фронтенд
+Доступна на версел: *https://via-culture-frontend.vercel.app/nations/1*
 
 1. Клонируйте репозиторий:
    ```bash
