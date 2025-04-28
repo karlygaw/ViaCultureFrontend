@@ -1,19 +1,37 @@
-# Frontend - Via Culture App
+# Via Culture App
 
 ## Описание
 
-Это клиентская часть проекта, разработанная с использованием **React**. 
-
-## Требования
-
-- **Node.js** (рекомендуется версия 16.x или выше)
-- **npm** или **yarn**
+**Via Culture** — это приложение для знакомства с разными культурами, общения с представителями народов через чат и изучения их традиций и особенностей. Оно состоит из фронтенда на **React** и бэкенда на **Laravel**.
 
 ## Установка
 
+### Фронтенд
+
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/your-repo-frontend.git
-2. npm install
-3. npm start
-4. 
+   git clone https://github.com/your-username/your-repo-frontend.git](https://github.com/karlygaw/ViaCultureFrontend)
+
+2. Установите зависимости:
+   npm install
+3. Запустите проект:
+   npm start
+4. Клонируйте репозиторий бэкенда:
+   git clone https://github.com/karlygaw/ViaCulture.git
+5. Перейдите в папку проекта:
+   cd ViaCulture
+6. Установите зависимости:
+   composer install
+7. Запустите миграции:
+   php artisan migrate
+8. Запустите сидеры:
+   php artisan db:seed
+Особенность:
+Использован Gemini AI API для чатов с представителями разных культур.
+Адаптивная верстка для мобильных, планшетов и десктопов.
+
+Недостатки:
+В проекте не завершены админ-панель и регистрация пользователей из-за нехватки времени.
+
+Почему этот стек?
+React — удобен для создания интерфейсов и Laravel — простой и удобный фреймворк для создания бэкенда и API.
